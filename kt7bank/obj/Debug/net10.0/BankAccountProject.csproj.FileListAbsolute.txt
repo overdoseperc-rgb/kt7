@@ -1,0 +1,14 @@
+C:\Users\misarry\Desktop\kt7bank\bin\Debug\net10.0\BankAccountProject.exe
+C:\Users\misarry\Desktop\kt7bank\bin\Debug\net10.0\BankAccountProject.deps.json
+C:\Users\misarry\Desktop\kt7bank\bin\Debug\net10.0\BankAccountProject.runtimeconfig.json
+C:\Users\misarry\Desktop\kt7bank\bin\Debug\net10.0\BankAccountProject.dll
+C:\Users\misarry\Desktop\kt7bank\bin\Debug\net10.0\BankAccountProject.pdb
+C:\Users\misarry\Desktop\kt7bank\obj\Debug\net10.0\BankAccountProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misarry\Desktop\kt7bank\obj\Debug\net10.0\BankAccountProject.AssemblyInfoInputs.cache
+C:\Users\misarry\Desktop\kt7bank\obj\Debug\net10.0\BankAccountProject.AssemblyInfo.cs
+C:\Users\misarry\Desktop\kt7bank\obj\Debug\net10.0\BankAccountProject.csproj.CoreCompileInputs.cache
+C:\Users\misarry\Desktop\kt7bank\obj\Debug\net10.0\BankAccountProject.dll
+C:\Users\misarry\Desktop\kt7bank\obj\Debug\net10.0\refint\BankAccountProject.dll
+C:\Users\misarry\Desktop\kt7bank\obj\Debug\net10.0\BankAccountProject.pdb
+C:\Users\misarry\Desktop\kt7bank\obj\Debug\net10.0\BankAccountProject.genruntimeconfig.cache
+C:\Users\misarry\Desktop\kt7bank\obj\Debug\net10.0\ref\BankAccountProject.dll
